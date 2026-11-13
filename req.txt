@@ -1,0 +1,9 @@
+Create a local repository named lab1-[your-name]
+it should contain:
+•	At least 3 files
+•	At least 3 commits
+•	At least 2 branches
+Add a file that ignores:
+•	The logs folder
+•	All .log files
+•	The node_modules folder
